@@ -1,7 +1,7 @@
 # Juego del Ahorcado
 
 
-## Descripcion del juego
+## Descripción del juego
 * Antes de iniciar el juego puedes agregar una nueva palabra.
 * Cuando agregues la nueva palabra enseguida comenzará el juego.
 * Si completas la palabra antes del ahorcado habrás ganado.
