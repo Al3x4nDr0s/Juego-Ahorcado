@@ -2,17 +2,15 @@
 
 
 ## Funciones
-* Antes de iniciar el juego puedes agregar una nueva palabra
-* Cuando agregues la nueva palabra enseguida inicias el juego
-* Puedes jugar cuantas veces quieras.
-* Por cada juego puedes equivocarte como maximo 9 veces para seguir con vida
-* Si completas la palabra antes del ahorcado has ganado!
-* Si te equivocas 9 veces sin completar la palabra, habras perdido.
+* Antes de iniciar el juego puedes agregar una nueva palabra.
+* Cuando agregues la nueva palabra enseguida comenzará el juego.
+* Si completas la palabra antes del ahorcado habrás ganado.
+* Si te equivocas 9 veces sin completar la palabra, habrás perdido.
 
-## Construido con 🛠️
+## Tecnologías utilizadas
 
 * Html
-* Css
+* CSS
 * JavaScript
 
 ---
